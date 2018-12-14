@@ -1,7 +1,1 @@
 message: 1111更新：此条消息来自于cofig server
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"     
