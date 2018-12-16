@@ -1,1 +1,6 @@
-message: 此条消息来自于cofig server
+messagess: 更新：此条消息来自于cofig server11
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
